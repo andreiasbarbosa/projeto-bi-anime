@@ -55,9 +55,9 @@ Dataset público **[Anime Recommendation Database 2020](https://www.kaggle.com/h
 |---|:---:|---|
 | ✅ Estrutura inicial | — | Repositório, board de acompanhamento e definição da arquitetura |
 | ✅ Dados e banco | — | Dataset tratado e carregado no banco de dados |
-| 🔵 **Entrega 1** | **14/09/2026** | Banco funcionando + Página 1: **Panorama Geral** |
-| ⚪ Entrega 2 | 13/10/2026 | Página 2: **Gêneros ao longo do tempo** |
-| ⚪ Entrega 3 | 08/11/2026 | Página 3: **Estúdios — quantidade x qualidade** |
+| ✅ Entrega 1 | 14/09/2026 | Banco funcionando + Página 1: **Panorama Geral** |
+| ✅ Entrega 2 | 13/10/2026 | Página 2: **Gêneros ao longo do tempo** |
+| 🔵 **Entrega 3** | **08/11/2026** | Página 3: **Estúdios — quantidade x qualidade** |
 | ⚪ Entrega 4 | 22/11/2026 | Página 4: **Popularidade vs Qualidade** (fechamento) |
 
 ✅ concluído · 🔵 em andamento · ⚪ próximo
@@ -66,4 +66,4 @@ Dataset público **[Anime Recommendation Database 2020](https://www.kaggle.com/h
 
 ## 📊 O dashboard
 
-Construído no **Power BI**, com cada página explorando um ângulo diferente dos animes. O link de acesso (via "Publicar na Web") será adicionado aqui assim que o dashboard estiver publicado.
+Construído no **Power BI**, com cada página explorando um ângulo diferente dos animes. **[Disponível aqui](https://app.powerbi.com/view?r=eyJrIjoiOWZlOTBlMGQtNmNkOC00ZDkyLWE0MTgtYzU4ZmY3ZTkzYTU2IiwidCI6IjVjOWUwNTljLTM5MjktNGRjZC1hMmRhLWIxMWNkNGU4YjFkNCIsImMiOjR9&pageName=467d2463529d70a4209a)**.
