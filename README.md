@@ -57,8 +57,8 @@ Dataset público **[Anime Recommendation Database 2020](https://www.kaggle.com/h
 | ✅ Dados e banco | — | Dataset tratado e carregado no banco de dados |
 | ✅ Entrega 1 | 14/09/2026 | Banco funcionando + Página 1: **Panorama Geral** |
 | ✅ Entrega 2 | 13/10/2026 | Página 2: **Gêneros ao longo do tempo** |
-| 🔵 **Entrega 3** | **08/11/2026** | Página 3: **Estúdios — quantidade x qualidade** |
-| ⚪ Entrega 4 | 22/11/2026 | Página 4: **Popularidade vs Qualidade** (fechamento) |
+| ✅ **Entrega 3** | **08/11/2026** | Página 3: **Estúdios — quantidade x qualidade** |
+| 🔵 Entrega 4 | 22/11/2026 | Página 4: **Popularidade vs Qualidade** (fechamento) |
 
 ✅ concluído · 🔵 em andamento · ⚪ próximo
 
